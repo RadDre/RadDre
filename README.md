@@ -7,11 +7,9 @@ while !working:
   fail()
   cry()
 ```
-######
 Ola! <br> I love coding, climbing, and doggos :) <br> <br>
 **McGill U2 Electrical Eng** <br>
 **Training EUS Webmaster**
-
 
 <!---
 RadDre/RadDre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
