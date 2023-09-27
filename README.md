@@ -1,6 +1,17 @@
-![image](https://github.com/RadDre/RadDre/assets/146156678/14bf3300-2195-4f5e-8746-dcd22dd417fd)
+<img src="https://github.com/RadDre/RadDre/assets/146156678/14bf3300-2195-4f5e-8746-dcd22dd417fd" height="550" width="650" >
 
-**#[Me](../)**
+# RadDre :)
+
+```
+while !working:
+  try_again()
+  fail()
+  cry()
+```
+######
+Ola! <br> I love coding, climbing, and doggos :) <br> <br>
+**McGill U2 Electrical Eng** <br>
+**Training EUS Webmaster**
 
 
 <!---
