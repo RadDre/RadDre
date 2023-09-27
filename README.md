@@ -1,4 +1,4 @@
-![image](https://github.com/RadDre/RadDre/assets/146156678/b3566fb5-83fa-40eb-a37f-c4b1905e28d0)
+![gif](https://github.com/RadDre/RadDre/assets/146156678/b3566fb5-83fa-40eb-a37f-c4b1905e28d0)
 
 - 👋 Hi, I’m @RadDre, but you can call me Radu
 - 👀 I’m interested in climbing and electrical stuff :)
