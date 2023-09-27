@@ -1,6 +1,6 @@
 ![image](https://github.com/RadDre/RadDre/assets/146156678/1de69424-f2a8-4e1b-bd1f-71ae6f7dfb26)
 
-![link](https://github.com/RadDre)
+![RadDre](https://github.com/RadDre)
 
 
 <!---
