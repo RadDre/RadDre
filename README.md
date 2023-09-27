@@ -1,6 +1,6 @@
-![image](https://github.com/RadDre/RadDre/assets/146156678/1de69424-f2a8-4e1b-bd1f-71ae6f7dfb26)
+![image](https://github.com/RadDre/RadDre/assets/146156678/14bf3300-2195-4f5e-8746-dcd22dd417fd)
 
-[RadDre](https://github.com/RadDre)
+**#[Me](../)**
 
 
 <!---
